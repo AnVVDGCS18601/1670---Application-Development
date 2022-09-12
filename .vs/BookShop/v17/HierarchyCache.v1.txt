@@ -1,0 +1,603 @@
+﻿++Solution 'BookShop' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:BookShop.sln
+++BookShop
+i:{00000000-0000-0000-0000-000000000000}:BookShop
+++Properties
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\properties\
+++References
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:
+++App_Data
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\app_data\
+++App_Start
+++Asset
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\
+++bin
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\
+++Content
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\content\
+++Controllers
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\controllers\
+++ContactController.cs
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\controllers\contactcontroller.cs
+++HomeController.cs
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\controllers\homecontroller.cs
+++PageController.cs
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\controllers\pagecontroller.cs
+++ProductController.cs
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\controllers\productcontroller.cs
+++TeamController.cs
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\controllers\teamcontroller.cs
+++Models
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\models\
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\release\edmxresourcestoembed\models\
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\debug\edmxresourcestoembed\models\
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\x86\debug\edmxresourcestoembed\models\
+++BookShopContext.edmx
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\models\bookshopcontext.edmx
+++BookShopContext.edmx.sql
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\models\bookshopcontext.edmx.sql
+++obj
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\
+++Scripts
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\scripts\
+++bootstrap.bundle.js
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\scripts\bootstrap.bundle.js
+++bootstrap.bundle.js.map
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\scripts\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\scripts\bootstrap.bundle.min.js
+++bootstrap.bundle.min.js.map
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\scripts\bootstrap.bundle.min.js.map
+++bootstrap.esm.js
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\scripts\bootstrap.esm.js
+++bootstrap.esm.js.map
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\scripts\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\scripts\bootstrap.esm.min.js
+++bootstrap.esm.min.js.map
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\scripts\bootstrap.esm.min.js.map
+++bootstrap.js
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\scripts\bootstrap.js
+++bootstrap.js.map
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\scripts\bootstrap.js.map
+++bootstrap.min.js
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\scripts\bootstrap.min.js
+++bootstrap.min.js.map
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\scripts\bootstrap.min.js.map
+++jquery-3.6.0.intellisense.js
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\scripts\jquery-3.6.0.intellisense.js
+++jquery-3.6.0.js
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\scripts\jquery-3.6.0.js
+++jquery-3.6.0.min.js
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\scripts\jquery-3.6.0.min.js
+++jquery-3.6.0.min.map
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\scripts\jquery-3.6.0.min.map
+++jquery-3.6.0.slim.js
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\scripts\jquery-3.6.0.slim.js
+++jquery-3.6.0.slim.min.js
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\scripts\jquery-3.6.0.slim.min.js
+++jquery-3.6.0.slim.min.map
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\scripts\jquery-3.6.0.slim.min.map
+++Views
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\views\
+++Contact
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\views\contact\
+++Home
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\views\home\
+++Page
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\views\page\
+++Product
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\views\product\
+++Shared
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\views\shared\
+++Team
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\views\team\
+++_ViewStart.cshtml
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\views\_viewstart.cshtml
+++web.config
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\views\web.config
+++Global.asax
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\global.asax
+++packages.config
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\packages.config
+++Web.config
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\web.config
+++PublishProfiles
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\properties\publishprofiles\
+++AssemblyInfo.cs
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\properties\assemblyinfo.cs
+++serviceDependencies.json
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\properties\servicedependencies.json
+++serviceDependencies.local.json
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\properties\servicedependencies.local.json
+++serviceDependencies.local.json.user
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\properties\servicedependencies.local.json.user
+++EntityFramework
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:
+++EntityFramework.SqlServer
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:
+++Microsoft.CSharp
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:
+++Microsoft.Web.Infrastructure
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:
+++System
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:
+++System.ComponentModel.DataAnnotations
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:
+++System.Configuration
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:
+++System.Core
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:
+++System.Data
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:
+++System.Data.DataSetExtensions
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:
+++System.Drawing
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:
+++System.EnterpriseServices
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:
+++System.Runtime.Serialization
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:
+++System.Security
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:
+++System.Web
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:
+++System.Web.ApplicationServices
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:
+++System.Web.DynamicData
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:
+++System.Web.Entity
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:
+++System.Web.Extensions
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:
+++System.Web.Helpers
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:
+++System.Web.Mvc
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:
+++System.Web.Razor
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:
+++System.Web.Services
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:
+++System.Web.Webpages
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:
+++System.Web.Webpages.Deployment
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:
+++System.Web.Webpages.Razor
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:
+++System.Xml
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:
+++System.Xml.Linq
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:
+++RouteConfig.cs
+++css
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\css\
+++img
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\img\
+++js
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\js\
+++lib
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\lib\
+++BookShop.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\bookshop.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\release\bookshop.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\debug\bookshop.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\x86\debug\bookshop.dll
+++BookShop.pdb
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\bookshop.pdb
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\release\bookshop.pdb
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\debug\bookshop.pdb
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\x86\debug\bookshop.pdb
+++bootstrap-grid.css
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\content\bootstrap-grid.css
+++bootstrap-grid.css.map
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\content\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\content\bootstrap-grid.min.css
+++bootstrap-grid.min.css.map
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\content\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\content\bootstrap-grid.rtl.css
+++bootstrap-grid.rtl.css.map
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\content\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\content\bootstrap-grid.rtl.min.css
+++bootstrap-grid.rtl.min.css.map
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\content\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.css
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\content\bootstrap-reboot.css
+++bootstrap-reboot.css.map
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\content\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\content\bootstrap-reboot.min.css
+++bootstrap-reboot.min.css.map
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\content\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\content\bootstrap-reboot.rtl.css
+++bootstrap-reboot.rtl.css.map
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\content\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\content\bootstrap-reboot.rtl.min.css
+++bootstrap-reboot.rtl.min.css.map
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\content\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.css
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\content\bootstrap-utilities.css
+++bootstrap-utilities.css.map
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\content\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\content\bootstrap-utilities.min.css
+++bootstrap-utilities.min.css.map
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\content\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\content\bootstrap-utilities.rtl.css
+++bootstrap-utilities.rtl.css.map
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\content\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\content\bootstrap-utilities.rtl.min.css
+++bootstrap-utilities.rtl.min.css.map
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\content\bootstrap-utilities.rtl.min.css.map
+++bootstrap.css
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\content\bootstrap.css
+++bootstrap.css.map
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\content\bootstrap.css.map
+++bootstrap.min.css
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\content\bootstrap.min.css
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\css\bootstrap.min.css
+++bootstrap.min.css.map
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\content\bootstrap.min.css.map
+++bootstrap.rtl.css
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\content\bootstrap.rtl.css
+++bootstrap.rtl.css.map
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\content\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\content\bootstrap.rtl.min.css
+++bootstrap.rtl.min.css.map
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\content\bootstrap.rtl.min.css.map
+++Site.css
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\content\site.css
+++BookShopContext.Context.tt
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\models\bookshopcontext.context.tt
+++BookShopContext.Designer.cs
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\models\bookshopcontext.designer.cs
+++BookShopContext.edmx.diagram
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\models\bookshopcontext.edmx.diagram
+++BookShopContext.tt
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\models\bookshopcontext.tt
+++Debug
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\debug\
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\x86\debug\
+++Release
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\release\
+++Index.cshtml
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\views\contact\index.cshtml
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\views\home\index.cshtml
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\views\product\index.cshtml
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\views\team\index.cshtml
+++AboutUs.cshtml
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\views\home\aboutus.cshtml
+++Service.cshtml
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\views\page\service.cshtml
+++Testimonial.cshtml
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\views\page\testimonial.cshtml
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\views\shared\testimonial.cshtml
+++Products.cshtml
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\views\product\products.cshtml
+++_Cake.cshtml
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\views\shared\_cake.cshtml
+++_Layout.cshtml
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\views\shared\_layout.cshtml
+++Global.asax.cs
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\global.asax.cs
+++Web.Debug.config
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\web.debug.config
+++Web.Release.config
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\web.release.config
+++IISProfile.pubxml
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\properties\publishprofiles\iisprofile.pubxml
+++IISProfile.pubxml.user
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\properties\publishprofiles\iisprofile.pubxml.user
+++style.css
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\css\style.css
+++about.jpg
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\img\about.jpg
+++author.jpg
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\img\author.jpg
+++bg.jpg
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\img\bg.jpg
+++cake-1.jpg
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\img\cake-1.jpg
+++cake-2.jpg
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\img\cake-2.jpg
+++cake-3.jpg
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\img\cake-3.jpg
+++hero.jpg
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\img\hero.jpg
+++hoclaptrinh.jpg
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\img\hoclaptrinh.jpg
+++offer.jpg
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\img\offer.jpg
+++sachhocenglish.jpg
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\img\sachhocenglish.jpg
+++service.jpg
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\img\service.jpg
+++team-1.jpg
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\img\team-1.jpg
+++team-2.jpg
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\img\team-2.jpg
+++team-3.jpg
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\img\team-3.jpg
+++testimonial-1.jpg
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\img\testimonial-1.jpg
+++testimonial-2.jpg
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\img\testimonial-2.jpg
+++testimonial-3.jpg
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\img\testimonial-3.jpg
+++testimonial-4.jpg
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\img\testimonial-4.jpg
+++main.js
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\js\main.js
+++counterup
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\lib\counterup\
+++easing
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\lib\easing\
+++owlcarousel
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\lib\owlcarousel\
+++waypoints
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\lib\waypoints\
+++BookShopContext.Context.cs
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\models\bookshopcontext.context.cs
+++BookShopContext.cs
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\models\bookshopcontext.cs
+++Category.cs
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\models\category.cs
+++Product.cs
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\models\product.cs
+++.NETFramework,Version=v4.6.AssemblyAttributes.cs
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\debug\.netframework,version=v4.6.assemblyattributes.cs
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\release\.netframework,version=v4.6.assemblyattributes.cs
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\x86\debug\.netframework,version=v4.6.assemblyattributes.cs
+++edmxResourcesToEmbed
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\release\edmxresourcestoembed\
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\debug\edmxresourcestoembed\
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\x86\debug\edmxresourcestoembed\
+++TempPE
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\release\temppe\
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\debug\temppe\
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\x86\debug\temppe\
+++BookShop.csproj.AssemblyReference.cache
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\release\bookshop.csproj.assemblyreference.cache
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\x86\debug\bookshop.csproj.assemblyreference.cache
+++BookShop.csproj.CoreCompileInputs.cache
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\release\bookshop.csproj.corecompileinputs.cache
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\debug\bookshop.csproj.corecompileinputs.cache
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\x86\debug\bookshop.csproj.corecompileinputs.cache
+++BookShop.csproj.FileListAbsolute.txt
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\release\bookshop.csproj.filelistabsolute.txt
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\debug\bookshop.csproj.filelistabsolute.txt
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\x86\debug\bookshop.csproj.filelistabsolute.txt
+++DesignTimeResolveAssemblyReferencesInput.cache
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\release\designtimeresolveassemblyreferencesinput.cache
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\debug\designtimeresolveassemblyreferencesinput.cache
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\x86\debug\designtimeresolveassemblyreferencesinput.cache
+++counterup.min.js
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\lib\counterup\counterup.min.js
+++easing.js
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\lib\easing\easing.js
+++easing.min.js
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\lib\easing\easing.min.js
+++assets
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\lib\owlcarousel\assets\
+++LICENSE
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\lib\owlcarousel\license
+++owl.carousel.js
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\lib\owlcarousel\owl.carousel.js
+++owl.carousel.min.js
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\lib\owlcarousel\owl.carousel.min.js
+++links.php
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\lib\waypoints\links.php
+++waypoints.min.js
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\lib\waypoints\waypoints.min.js
+++Models.BookShopContext.Context.cs.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\release\temppe\models.bookshopcontext.context.cs.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\debug\temppe\models.bookshopcontext.context.cs.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\x86\debug\temppe\models.bookshopcontext.context.cs.dll
+++Models.BookShopContext.cs.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\release\temppe\models.bookshopcontext.cs.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\debug\temppe\models.bookshopcontext.cs.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\x86\debug\temppe\models.bookshopcontext.cs.dll
+++Models.BookShopContext.Designer.cs.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\release\temppe\models.bookshopcontext.designer.cs.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\debug\temppe\models.bookshopcontext.designer.cs.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\x86\debug\temppe\models.bookshopcontext.designer.cs.dll
+++ajax-loader.gif
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\lib\owlcarousel\assets\ajax-loader.gif
+++owl.carousel.css
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\lib\owlcarousel\assets\owl.carousel.css
+++owl.carousel.min.css
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\lib\owlcarousel\assets\owl.carousel.min.css
+++owl.theme.default.css
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\lib\owlcarousel\assets\owl.theme.default.css
+++owl.theme.default.min.css
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\lib\owlcarousel\assets\owl.theme.default.min.css
+++owl.theme.green.css
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\lib\owlcarousel\assets\owl.theme.green.css
+++owl.theme.green.min.css
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\lib\owlcarousel\assets\owl.theme.green.min.css
+++owl.video.play.png
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\asset\lib\owlcarousel\assets\owl.video.play.png
+++BookShopContext.csdl
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\release\edmxresourcestoembed\models\bookshopcontext.csdl
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\debug\edmxresourcestoembed\models\bookshopcontext.csdl
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\x86\debug\edmxresourcestoembed\models\bookshopcontext.csdl
+++BookShopContext.msl
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\release\edmxresourcestoembed\models\bookshopcontext.msl
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\debug\edmxresourcestoembed\models\bookshopcontext.msl
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\x86\debug\edmxresourcestoembed\models\bookshopcontext.msl
+++BookShopContext.ssdl
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\release\edmxresourcestoembed\models\bookshopcontext.ssdl
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\debug\edmxresourcestoembed\models\bookshopcontext.ssdl
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\x86\debug\edmxresourcestoembed\models\bookshopcontext.ssdl
+++Settings.settings
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\properties\settings.settings
+++Settings.Designer.cs
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\properties\settings.designer.cs
+++x86
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\x86\
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\x86\
+++_Cake - Copy.cshtml
+++roslyn
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\
+++csc.exe
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\csc.exe
+++csc.exe.config
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\csc.exe.config
+++csc.rsp
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\csc.rsp
+++csi.exe
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\csi.exe
+++csi.exe.config
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\csi.exe.config
+++csi.rsp
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\csi.rsp
+++Microsoft.Build.Tasks.CodeAnalysis.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\microsoft.build.tasks.codeanalysis.dll
+++Microsoft.CodeAnalysis.CSharp.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\microsoft.codeanalysis.csharp.dll
+++Microsoft.CodeAnalysis.CSharp.Scripting.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\microsoft.codeanalysis.csharp.scripting.dll
+++Microsoft.CodeAnalysis.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\microsoft.codeanalysis.dll
+++Microsoft.CodeAnalysis.Scripting.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\microsoft.codeanalysis.scripting.dll
+++Microsoft.CodeAnalysis.VisualBasic.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\microsoft.codeanalysis.visualbasic.dll
+++Microsoft.CSharp.Core.targets
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.DiaSymReader.Native.amd64.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\microsoft.diasymreader.native.amd64.dll
+++Microsoft.DiaSymReader.Native.x86.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\microsoft.diasymreader.native.x86.dll
+++Microsoft.Managed.Core.targets
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.VisualBasic.Core.targets
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\microsoft.visualbasic.core.targets
+++Microsoft.Win32.Primitives.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\microsoft.win32.primitives.dll
+++System.AppContext.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\system.appcontext.dll
+++System.Collections.Immutable.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\system.collections.immutable.dll
+++System.Console.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\system.console.dll
+++System.Diagnostics.DiagnosticSource.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\system.diagnostics.diagnosticsource.dll
+++System.Diagnostics.FileVersionInfo.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\system.diagnostics.fileversioninfo.dll
+++System.Diagnostics.StackTrace.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\system.diagnostics.stacktrace.dll
+++System.Globalization.Calendars.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\system.globalization.calendars.dll
+++System.IO.Compression.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\system.io.compression.dll
+++System.IO.Compression.ZipFile.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\system.io.compression.zipfile.dll
+++System.IO.FileSystem.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\system.io.filesystem.dll
+++System.IO.FileSystem.Primitives.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\system.io.filesystem.primitives.dll
+++System.Net.Http.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\system.net.http.dll
+++System.Net.Sockets.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\system.net.sockets.dll
+++System.Reflection.Metadata.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\system.reflection.metadata.dll
+++System.Runtime.InteropServices.RuntimeInformation.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\system.runtime.interopservices.runtimeinformation.dll
+++System.Security.Cryptography.Algorithms.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\system.security.cryptography.algorithms.dll
+++System.Security.Cryptography.Encoding.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\system.security.cryptography.encoding.dll
+++System.Security.Cryptography.Primitives.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\system.security.cryptography.primitives.dll
+++System.Security.Cryptography.X509Certificates.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\system.security.cryptography.x509certificates.dll
+++System.Text.Encoding.CodePages.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\system.text.encoding.codepages.dll
+++System.Threading.Tasks.Extensions.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\system.threading.tasks.extensions.dll
+++System.ValueTuple.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\system.valuetuple.dll
+++System.Xml.ReaderWriter.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\system.xml.readerwriter.dll
+++System.Xml.XmlDocument.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\system.xml.xmldocument.dll
+++System.Xml.XPath.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\system.xml.xpath.dll
+++System.Xml.XPath.XDocument.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\system.xml.xpath.xdocument.dll
+++vbc.exe
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\vbc.exe
+++vbc.exe.config
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\vbc.exe.config
+++vbc.rsp
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\vbc.rsp
+++VBCSCompiler.exe
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\vbcscompiler.exe
+++VBCSCompiler.exe.config
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\roslyn\vbcscompiler.exe.config
+++BookShop.dll.config
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\bookshop.dll.config
+++EntityFramework.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\entityframework.dll
+++EntityFramework.SqlServer.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\entityframework.sqlserver.dll
+++EntityFramework.SqlServer.xml
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\entityframework.sqlserver.xml
+++EntityFramework.xml
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\entityframework.xml
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\microsoft.codedom.providers.dotnetcompilerplatform.dll
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\microsoft.codedom.providers.dotnetcompilerplatform.xml
+++Microsoft.Web.Infrastructure.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\microsoft.web.infrastructure.dll
+++System.Web.Helpers.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\system.web.helpers.dll
+++System.Web.Helpers.xml
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\system.web.helpers.xml
+++System.Web.Mvc.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\system.web.mvc.dll
+++System.Web.Mvc.xml
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\system.web.mvc.xml
+++System.Web.Razor.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\system.web.razor.dll
+++System.Web.Razor.xml
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\system.web.razor.xml
+++System.Web.Webpages.Deployment.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\system.web.webpages.deployment.dll
+++System.Web.Webpages.Deployment.xml
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\system.web.webpages.deployment.xml
+++System.Web.Webpages.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\system.web.webpages.dll
+++System.Web.Webpages.Razor.dll
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\system.web.webpages.razor.dll
+++System.Web.Webpages.Razor.xml
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\system.web.webpages.razor.xml
+++System.Web.Webpages.xml
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\bin\system.web.webpages.xml
+++__testMsDeployConnection__
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\debug\__testmsdeployconnection__\
+++BookShop.csproj.CopyComplete
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\obj\debug\bookshop.csproj.copycomplete
+++Facts.cshtml
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\views\shared\facts.cshtml
+++Facts - Copy.cshtml
+++Services.cshtml
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\views\shared\services.cshtml
+++Team.cshtml
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\views\shared\team.cshtml
+++Services - Copy.cshtml
+++Offer.cshtml
+i:{73ba3445-4c02-4a58-835d-392f565f2405}:c:\users\dell\desktop\assignments\application development\bookshop\bookshop\views\shared\offer.cshtml
+++Offer - Copy.cshtml

@@ -1,0 +1,69 @@
+﻿<!-- Products Start -->
+
+<div class="container-fluid about py-5">
+    <div class="container">
+        <div class="section-title position-relative text-center mx-auto mb-5 pb-3" style="max-width: 600px;">
+            <h2 class="text-primary font-secondary">Book Recommendation</h2>
+            <h1 class="display-4 text-uppercase">Explore Best Books</h1>
+        </div>
+        <div class="tab-class text-center">
+            <ul class="nav nav-pills d-inline-flex justify-content-center bg-dark text-uppercase border-inner p-4 mb-5">
+                @{
+                    List<BookShop.Models.Category> categories = (List<BookShop.Models.Category>)ViewBag.Categories;
+
+                    if (categories == null)
+                    {
+                        return;
+                    }
+
+                    foreach (var item in categories)
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link text-white " data-bs-toggle="pill" href="@item.Id">@item.Name</a>
+                        </li>
+                    }
+                }
+            </ul>
+           
+            <div class="tab-content">
+                @{
+                    List<BookShop.Models.Product> products = (List<BookShop.Models.Product>)ViewBag.Products;
+
+                    if(categories == null)
+                    {
+                        return;
+                    }
+
+                    foreach (var item in categories)
+                    {
+
+                        <div id="@item.Id" class="tab-pane fade show p-0">
+                            <div class="row g-3">
+                                @{
+                                    List<BookShop.Models.Product> productsFilter = products.Where(p => p.CategorryID == item.Id).ToList();
+                                    foreach (var i in productsFilter)
+                                    {
+                                        <<div class="col-lg-6">
+                                            <div class="d-flex h-100">
+                                                <div class="flex-shrink-0">
+                                                    <img class="img-fluid" src="/Asset/img/@i.Picture" alt="" style="width: 150px; height: 85px;">
+                                                    <h4 class="bg-dark text-primary p-2 m-0">@i.Price.Value.ToString("#,##0")</h4>
+                                                </div>
+                                                <div class="d-flex flex-column justify-content-center text-start bg-secondary border-inner px-4">
+                                                    <h5 class="text-uppercase">@i.Name</h5>
+                                                    <span>@i.Description</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    }
+                                }
+
+                            </div>
+                        </div>
+                    }
+                }
+
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,116 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Cake.cshtml";
+}
+
+<!-- Hero Start -->
+<div class="container-fluid bg-primary py-5 mb-5 hero-header">
+    <div class="container py-5">
+        <div class="row justify-content-start">
+            <div class="col-lg-8 text-center text-lg-start">
+                <h1 class="font-secondary text-primary mb-4">FPT</h1>
+                <h1 class="display-1 text-uppercase text-white mb-4">Book Shop</h1>
+                <h1 class="text-uppercase text-white">The Best Book Shop In Vietnam</h1>
+                <div class="d-flex align-items-center justify-content-center justify-content-lg-start pt-5">
+                    <a href="" class="btn btn-primary border-inner py-3 px-5 me-5">Read More</a>
+                    <button type="button" class="btn-play" data-bs-toggle="modal"
+                            data-src="https://www.youtube.com/embed/DWRcNpR6Kdc" data-bs-target="#videoModal">
+                        <span></span>
+                    </button>
+                    <h5 class="font-weight-normal text-white m-0 ms-4 d-none d-sm-block">Play Video</h5>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--<!-- Hero End -->
+<!-- Video Modal Start -->
+<div class="modal fade" id="videoModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content rounded-0">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Youtube Video</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                16:9 aspect ratio
+                <div class="ratio ratio-16x9">
+                    <iframe class="embed-responsive-item" src="" id="video" allowfullscreen allowscriptaccess="always"
+                            allow="autoplay"></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Video Modal End -->
+<!-- About Start -->
+<div class="container-fluid pt-5">
+    <div class="container">
+        <div class="section-title position-relative text-center mx-auto mb-5 pb-3" style="max-width: 600px;">
+            <h2 class="text-primary font-secondary">About Us</h2>
+            <h1 class="display-4 text-uppercase">Welcome To FPT Book Shop</h1>
+        </div>
+        <div class="row gx-5">
+            <div class="col-lg-5 mb-5 mb-lg-0" style="min-height: 400px;">
+                <div class="position-relative h-100">
+                    <img class="position-absolute w-100 h-100" src="../Asset/img/about.jpg" style="object-fit: cover;">
+                </div>
+            </div>
+            <div class="col-lg-6 pb-5">
+                <h4 class="mb-4">Tempor erat elitr rebum clita. Diam dolor diam ipsum erat lorem sed stet labore lorem sit clita duo</h4>
+                <p class="mb-5">Tempor erat elitr at rebum at at clita. Diam dolor diam ipsum et tempor sit. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor eirmod magna dolore erat amet magna</p>
+                <div class="row g-5">
+                    <div class="col-sm-6">
+                        <div class="d-flex align-items-center justify-content-center bg-primary border-inner mb-4" style="width: 90px; height: 90px;">
+                            <i class="fa fa-heartbeat fa-2x text-white"></i>
+                        </div>
+                        <h4 class="text-uppercase">Have all Book</h4>
+                        <p class="mb-0">Labore justo vero ipsum sit clita erat lorem magna clita nonumy dolor magna dolor vero</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="d-flex align-items-center justify-content-center bg-primary border-inner mb-4" style="width: 90px; height: 90px;">
+                            <i class="fa fa-award fa-2x text-white"></i>
+                        </div>
+                        <h4 class="text-uppercase">Award Winning</h4>
+                        <p class="mb-0">Labore justo vero ipsum sit clita erat lorem magna clita nonumy dolor magna dolor vero</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- About End -->
+<!-- Facts Start -->
+
+@{
+    Html.RenderPartial("Facts");
+}
+<!-- Facts End -->
+<!-- Products Start -->-->
+
+@{
+    Html.RenderAction("Products", "Product");
+}
+<!-- Products End -->
+<!-- Service Start -->
+@{
+    Html.RenderPartial("Services");
+}
+
+<!-- Service Start -->
+<!-- Team Start -->
+@{
+    Html.RenderPartial("Team");
+}
+<!-- Team End -->
+<!-- Offer Start -->
+@{
+    Html.RenderPartial("Offer");
+}
+<!-- Offer End -->
+<!-- Testimonial Start -->
+@{
+    Html.RenderPartial("Testimonial");
+}
+<!-- Testimonial End -->
